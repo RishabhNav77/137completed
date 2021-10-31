@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+
+}
+
+.heading{
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 18px grey;
+    
+}
+
+#STARTVideo{
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+    font-weight: bolder;
+    font-family: cursive;
+    border-radius: 75px;
+    border-bottom-color: green;
+    border-top-color: orange;
+    border-left-color: blue;
+    border-right-color: white;
+    
+}
+
+canvas{
+    margin-top: 130px;
+    box-shadow: 5px 5px 20px black;
+    border: 2px solid white;
+    border-radius: 75px;
+
+}
